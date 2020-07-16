@@ -1,6 +1,6 @@
 {
-  "name": "sequelize",
-  "description": "Multi dialect ORM for Node.JS",
+  "name": "callbox-sequelize",
+  "description": "Call Box fork of -- Multi dialect ORM for Node.JS",
   "version": "5.0.0-beta.9",
   "author": "Sascha Depold <sascha@depold.com>",
   "contributors": [
